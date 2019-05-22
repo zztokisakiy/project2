@@ -80,7 +80,7 @@
 	
 效果：许多用户在使用本软件之前还没有下定决心读什么专业，但他们可以通过对各个校区的了解，对某个校区产生浓厚的兴趣，然后就会去选择这个校区里面他们喜欢的专业。
 
-![](http://imgsrc.baidu.com/forum/pic/item/557a8a23dd54564e8e060a9cbdde9c82d0584fe6.jpg)
+![](http://imgsrc.baidu.com/forum/pic/item/557a8a23dd54564e8e060a9cbdde9c82d0584fe6.jpg) 
 
 ![](http://imgsrc.baidu.com/forum/pic/item/b8ecfe1ed21b0ef4568b76fbd3c451da80cb3ee6.jpg)
 
