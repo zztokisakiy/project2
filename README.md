@@ -14,7 +14,7 @@
  
 ## 一、项目名称
 
-   ### 中山大学志愿填报辅助系统
+   中山大学志愿填报辅助系统
   
    英文名：A Guide System To College Application of Sun Yet-sen University
 
