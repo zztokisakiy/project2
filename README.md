@@ -2,7 +2,7 @@
 
 ## 传送门
 
-### [主页](https://zztokisakiy.github.io/project2/)
+## [主页](https://zztokisakiy.github.io/project2/)
 
 ### [项目介绍（PPT）](https://github.com/zztokisakiy/project2/blob/master/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E5%BF%97%E6%84%BF%E8%BE%85%E5%8A%A9%E7%B3%BB%E7%BB%9F.pptx?raw=true)
 
